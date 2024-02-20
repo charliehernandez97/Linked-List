@@ -14,7 +14,6 @@ public static void main(String[] args) {
         LinkedList l2 = new LinkedList(); 
 
         l1.display();
-        //System.out.println(l1.isEmpty());
 
         l1.append(2);
         l1.append(4);
